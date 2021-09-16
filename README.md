@@ -38,6 +38,8 @@
 <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=extrasad&show_icons=true&bg_color=ffffff&line_height=20&hide_border=true&hide_title=true&text_color=222&icon_color=222&title_color=222)
+
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/extrasad/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
