@@ -1,5 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1576117217/7294/cat_confused.png?1576117217" width="30"/> <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30"/>Welcome to my profile, lesgooo!<img src="https://emojis.slackmojis.com/emojis/images/1579902635/7617/dababy.jpeg?1579902635" width="30"/><img src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="30"/></h1>
-<p> Hey, i'm Carlos Rivas, i'm a Software Engineer from <img src="https://image.flaticon.com/icons/png/512/197/197580.png" width="13"/> <b>Zulia, Venezuela</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/197/197484.png" width="13"/> <b>Florida, USA</b>. </p>
+<p> Hey, i'm Carlos, i'm a Software Engineer from <img src="https://image.flaticon.com/icons/png/512/197/197580.png" width="13"/> <b>Zulia, Venezuela</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/197/197484.png" width="13"/> <b>Florida, USA</b>. </p>
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=extrasad&show_icons=true&bg_color=ffffff&line_height=20&hide_border=true&hide_title=true&text_color=222&icon_color=222&title_color=222)
+
 <h3>Things I love to code with</h3>
 <p>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
@@ -37,9 +39,6 @@
   <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=extrasad&show_icons=true&bg_color=ffffff&line_height=20&hide_border=true&hide_title=true&text_color=222&icon_color=222&title_color=222)
-
 <h3>Where to find me</h3>
 <p>
   <a href="https://www.linkedin.com/in/extrasad/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
