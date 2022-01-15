@@ -1,46 +1,167 @@
-<p> Hey, i'm Carlos, i'm a Software Engineer from <img src="https://image.flaticon.com/icons/png/512/197/197580.png" width="13"/> <b>Zulia, Venezuela</b>, currently living in <img src="https://image.flaticon.com/icons/png/512/197/197484.png" width="13"/> <b>Florida, USA</b>. </p>
+<!--
+**extrasad/extrasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=extrasad&show_icons=true&bg_color=ffffff&line_height=20&hide_border=true&hide_title=true&text_color=222&icon_color=222&title_color=222)
 
-<h3>Things I love to code with</h3>
-<p>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-  <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase"/>
-  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white"/>
-  
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
-  <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img alt="GitLab CI" src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+<!-- Title  -->
+<h1 align="center">🧛‍♂️ Welcome 🧛‍♂️</h1>
+ 
+<div align="center">
+ <h4> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ogre_1f479.png" width="16px"> Carlos Rivas | <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/laptop_1f4bb.png" width="16px"> Software Engineer | <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/man-mage-medium-skin-tone_1f9d9-1f3fd-200d-2642-fe0f.png" width="16px"> Alchemy Enthusiast | <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/flag-united-states_1f1fa-1f1f8.png" width="16px"> Florida, United States </h4>
+</div>
+
+</BR>
+
+<!-- Github -Twitter and Sponsor Logo -->
+<p align="center">
+	<a href="https://github.com/extrasad"><img src="https://img.shields.io/github/followers/extrasad.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<!--<a href="https://github.com/sponsors/extrasad"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>-->
+	<a href="https://twitter.com/mysticpxmp"><img src="https://img.shields.io/twitter/follow/mysticpxmp?label=Twitter&style=social" alt="Twitter"></a>
 </p>
-<h3>Where to find me</h3>
+
+</BR>
+
+<!-- Gif1 -->
+<div align="center" width="50">
+<img src="https://raw.githubusercontent.com/extrasad/extrasad/master/IMG/1.gif" width="600"/>
+</div>
+
+<!-- Stats -->
+</BR>
+
+<div>
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=extrasad&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+
+<img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extrasad&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+</div>
+
+<!-- Space Div -->
+<div>
+ 
+</BR></BR></BR></BR></BR></BR>
+
+</div>
+
+</BR></BR>
+
+<div align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1613461409/13263/bongocat_code.gif?1613461409" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1575409644/7248/baby-yoda-soup.gif?1575409644" width="50" height="50"/> &nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1575409644/7248/baby-yoda-soup.gif?1575409644" width="50" height="50"/> &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1613461409/13263/bongocat_code.gif?1613461409" width="50" height="50"/>
+</div>
+
+<!-- trophies -->
+<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"> Github Trophies <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"></h2>  
+<a href="https://extrasad.github.io">
+ 
+ <p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=extrasad&column=7&theme=onedark"/>
+ </p>
+</a>
+
+<!-- skills -->
+<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"> Banana Skillz <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"> </h2> 
+<div align="center">    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GC" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="CPlus" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="CSharp" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="Mongo" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PG" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="RoR" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="Graphql" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="FB" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="Nest" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="Gitlab" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="MariaDB" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+</div>  
+ 
+</BR></BR>
+
+<!-- Links -->
+<img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/extrasad/extrasad/master/IMG/2.gif">
+
 <p>
-  <a href="https://www.linkedin.com/in/extrasad/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://www.instagram.com/carlosdrivr/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/carlosdrivr-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <h4 align="center"> Programming | Web Development | Support Services | Software engineering | </h4>
 </p>
+
+</BR>
+
+<!-- Repos -->
+<div align="center">
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30px"> Some Repositories <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30px"></h2>  
+</BR>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=extrasad&repo=phaser-boilerplate&theme=gotham)](https://github.com/extrasad/phaser-boilerplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=extrasad&repo=crypto-game&theme=gotham)](https://github.com/extrasad/crypto-game)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=extrasad&repo=smart-chatter&theme=gotham)](https://github.com/extrasad/smart-chatter)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=extrasad&repo=plugin-installer&theme=gotham)](https://github.com/extrasad/plugin-installer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=extrasad&repo=track-message&theme=gotham)](https://github.com/extrasad/track-message)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=extrasad&repo=Laravel-Hotel-Reservation&theme=gotham)](https://github.com/extrasad/Laravel-Hotel-Reservation)
+</div>
+
+</BR></BR>
+
+<!-- Contacts -->
+<img align="left" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/extrasad/extrasad/master/IMG/3.gif">
+
+<h3> Contacts:</h3>
+<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="mailto:carlosr1765@gmail.com">Gmail</a>: carlosr1765@gmail.com</h4> 
+</BR>
+
+<!-- social -->
+<div align="center">
+<a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> 
+<a href="https://www.linkedin.com/in/extrasad/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;"/>
+</a> 
+<a href="https://www.instagram.com/carlosdrivr/" target="_blank">
+<img alt="Instagram" src="https://img.shields.io/badge/carlosdrivr-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 5px;"/>
+</a>
+<a href="https://github.com/extrasad" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/mysticpxmp" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a> 
+<a href="mailto:carlosr1765@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>	
+</div> 
+
+</BR>
+</div>
+<!-- Visitors Counter -->
+<div align="center">
+<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" align="center" />&nbsp;<img src="https://emojis.slackmojis.com/emojis/images/1450785773/250/mega.gif?1450785773" align="center" />
+	
+</BR>
+
+<img src="https://komarev.com/ghpvc/?username=extrasad&&style=flat-square" align="center" />
+<BR><BR>
+</div>  
