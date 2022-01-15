@@ -59,7 +59,7 @@
 </a>
 
 <!-- skills -->
-<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"> Banana Skillz <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"> </h2> 
+<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"> some skills <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"> </h2> 
 <div align="center">    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
@@ -102,10 +102,6 @@
 </div>  
  
 </BR></BR>
-
-<!-- Links -->
-<img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/extrasad/extrasad/master/IMG/2.gif">
-
 <p>
   <h4 align="center"> Programming | Web Development | Support Services | Software engineering | </h4>
 </p>
