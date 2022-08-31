@@ -17,8 +17,6 @@
 <p align="center">
 	<a href="https://github.com/extrasad"><img src="https://img.shields.io/github/followers/extrasad.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<!--<a href="https://github.com/sponsors/extrasad"><img src="https://img.shields.io/badge/Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA" alt="Sponsors"></a>-->
-	<a href="https://twitter.com/mysticpxmp"><img src="https://img.shields.io/twitter/follow/mysticpxmp?label=Twitter&style=social" alt="Twitter"></a>
-</p>
 
 </BR>
 
@@ -126,9 +124,6 @@
 <!-- Contacts -->
 <img align="left" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/extrasad/extrasad/master/IMG/3.gif">
 
-<h3> Contacts:</h3>
-<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="mailto:carlosr1765@gmail.com">Gmail</a>: carlosr1765@gmail.com</h4> 
-</BR>
 
 <!-- social -->
 <div align="center">
@@ -141,9 +136,6 @@
 <a href="https://github.com/extrasad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/mysticpxmp" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a> 
 <a href="mailto:carlosdav.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>	
 </div> 
 
