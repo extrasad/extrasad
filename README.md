@@ -130,9 +130,6 @@
 <a href="https://www.linkedin.com/in/extrasad/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;"/>
 </a> 
-<a href="https://www.instagram.com/carlosdrivr/" target="_blank">
-<img alt="Instagram" src="https://img.shields.io/badge/carlosdrivr-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 5px;"/>
-</a>
 <a href="https://github.com/extrasad" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
