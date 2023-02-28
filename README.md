@@ -5,10 +5,10 @@
 
 
 <!-- Title  -->
-<h1 align="center">🧛‍♂️ Welcome 🧛‍♂️</h1>
+<h1 align="center">🧛🏻‍♂️ Welcome 🧛🏻‍♂️</h1>
  
 <div align="center">
- <h4> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ogre_1f479.png" width="16px"> Carlos Rivas | <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/laptop_1f4bb.png" width="16px"> Software Engineer | <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/man-mage-medium-skin-tone_1f9d9-1f3fd-200d-2642-fe0f.png" width="16px"> Alchemy Enthusiast | <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/flag-united-states_1f1fa-1f1f8.png" width="16px"> Florida, United States </h4>
+ <h4> 👹 Carlos Rivas | 💻 Software Engineer | 🧙🏻‍♂️ Alchemy Enthusiast 
 </div>
 
 </BR>
@@ -48,7 +48,7 @@
 </div>
 
 <!-- trophies -->
-<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"> Github Trophies <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"></h2>  
+<h2 align="center">🏆 Github Trophies 🏆</h2>  
 <a href="https://extrasad.github.io">
  
  <p align="center">
@@ -57,14 +57,14 @@
 </a>
 
 <!-- skills -->
-<h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"> some skills <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/282/ninja_1f977.png" width="23px"> </h2> 
+<h2 align="center">🥷🏻🥷🏻🥷🏻 some skills 🥷🏻🥷🏻🥷🏻</h2> 
 <div align="center">    
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="50" />
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GC" height="50" />  
@@ -96,7 +96,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
+<a href="https://www.strapi.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" /></a>  
 </div>  
  
 </BR></BR>
